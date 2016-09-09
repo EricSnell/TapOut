@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Tap-Out
+//  FruitsDiet
 //
-//  Created by Eric Snell on 9/9/16.
+//  Created by Eric Snell on 9/7/16.
 //  Copyright © 2016 Eric Snell. All rights reserved.
 //
 
